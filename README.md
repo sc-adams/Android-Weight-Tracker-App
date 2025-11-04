@@ -4,7 +4,8 @@ View the [app video on YouTube](https://www.youtube.com/shorts/3epLM44HYrc)
 
 ## Weight Tracker App
 
-![weight1](<img width="1104" height="745" alt="Image" src="https://github.com/user-attachments/assets/cf6afa9d-3021-4e07-a748-04d2bc991a78" />)
+<img width="1104" height="745" alt="Image 11-4-25 at 10 59 AM" src="https://github.com/user-attachments/assets/5f3df830-7af5-41cb-8141-36401dbad431" />
+
 
 ## About the Project
 This project is a Java language Android phone weight management program. When a user meets a goal weight (gaining or losing weight), they will receive an SMS notification. This app I added password hashing to protect sensitive user data from unauthorized access. I also added a “remember me” button to allow users to conveniently store login credentials. 
